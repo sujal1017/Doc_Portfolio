@@ -1,0 +1,26 @@
+export const doctorData = {
+  name: "Dr. Ayesha Sharma",
+  title: "Consultant Physician / Cardiologist",
+  specialization: "Internal Medicine & Cardiology",
+  experience: "12+ Years",
+  clinic: "Ayesha Medical & Wellness Clinic",
+  location: "Bangalore, India",
+  phone: "+91 98765 43210",
+  email: "dr.ayesha@ayeshaclinic.com",
+  address: "123 Health Avenue, Indiranagar, Bangalore - 560038",
+  openingHours: "Mon – Sat, 9:00 AM – 6:00 PM",
+  bio: "Dr. Ayesha Sharma is a dedicated Consultant Physician with over 12 years of experience in internal medicine and cardiology. She believes in a holistic approach to healthcare, combining evidence-based medicine with compassionate patient care. Her expertise spans preventive care, chronic disease management, and cardiovascular health.",
+  stats: {
+    yearsExperience: 12,
+    patientsTreated: 5000,
+    awards: 15,
+    satisfaction: 98,
+  },
+  social: {
+    instagram: "#",
+    facebook: "#",
+    twitter: "#",
+    youtube: "#",
+    linkedin: "#",
+  },
+};
